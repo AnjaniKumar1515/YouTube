@@ -1,0 +1,2 @@
+# GitKeep
+- We use this file to track the folders which are empty in the git repository. So that we can push them to git  because git does not track empty folders.
