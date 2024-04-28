@@ -17,4 +17,4 @@ class apiErrors extends Error {
         Error.captureStackTrace(this, this.constructor);
     }
   }
-}
+} 
