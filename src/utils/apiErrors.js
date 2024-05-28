@@ -20,3 +20,8 @@ class apiErrors extends Error {
 } 
 export { apiErrors };
 
+//Error is the class already provided in javascript. We are extending it to create our custom error class.
+//We are passing the status code, message, errors, and stack trace to the constructor.
+//We are setting the default values for message and errors.
+//We are setting the default value for success to false.
+//We are capturing the stack trace if it is not provided.   
